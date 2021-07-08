@@ -3,7 +3,7 @@ Javascript program to print the mandlebrot set
 
 The program also provides two sliders to zoom in and out of the fractal.
 
-**Try it out here:** https://sanskarjaiswal2001.github.io/Mandlebrot-Set/
+**Try it out here:** [Mandlebrot Set](https://sanskarjaiswal2001.github.io/Mandlebrot-Set/)
 
 **Screenshots:**
 
